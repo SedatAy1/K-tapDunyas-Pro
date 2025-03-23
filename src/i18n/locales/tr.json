@@ -1,0 +1,101 @@
+{
+  "home": {
+    "title": "Ana Sayfa",
+    "currency": "Fiyatlar",
+    "bookList": "Kitap Listesi",
+    "addBook": "Yeni Kitap Ekle",
+    "exportBooks": "Kitapları Dışa Aktar 📤"
+  },
+  "auth": {
+    "login": "Giriş Yap",
+    "logout": "Çıkış Yap",
+    "register": "Kayıt Ol",
+    "noAccount": "Hesabınız yok mu?",
+    "email": "E-posta",
+    "password": "Şifre",
+    "name": "İsim"
+  },
+  "profile": {
+    "title": "Profil",
+    "info": "Burada kullanıcı bilgileri, favoriler, yorumlar gibi bölümler olacak."
+  },
+  "dashboard": {
+    "title": "Sepet",
+    "totalBooks": "Toplam Kitap",
+    "totalFavorites": "Favori Sayısı",
+    "totalCategories": "Kategori Sayısı",
+    "adminPanel": "Admin Paneli",
+    "adminDescription": "Yetkili kullanıcılar için yönetim ekranı."
+  },
+  "book": {
+    "title": "Kitap Adı",
+    "author": "Yazar",
+    "category": "Kategori",
+    "price": "Fiyat",
+    "tags": "Etiketler",
+    "tagsPlaceholder": "Etiketleri virgülle ayırarak girin (örn: Macera,2024)",
+    "validation": {
+      "title": "En az 2 karakter girilmelidir.",
+      "author": "Yazar ismi zorunludur.",
+      "category": "Kategori zorunludur.",
+      "price": "Geçerli bir fiyat girin.",
+      "cover": "Görsel seçmeniz gerekiyor."
+    },
+    "submit": "Ekle",
+    "cancel": "İptal",
+    "addToFavorites": "Favorilere Ekle",
+    "removeFromFavorites": "Favorilerden Çıkar"
+  },
+  "bookDetail": {
+    "author": "Yazar",
+    "category": "Kategori",
+    "price": "Fiyat",
+    "views": "Görüntülenme",
+    "viewCount": "Görüntülenme Sayısı",
+    "readCount": "Okunma Sayısı",
+    "averageRating": "Ortalama Puan",
+    "addToCart": "Sepete Ekle",
+    "comments": "Yorumlar",
+    "addCommentPlaceholder": "Yorum ekleyin...",
+    "submitComment": "Yorumu Gönder",
+    "bookNotFound": "Kitap bulunamadı.",
+    "topReadBooks": "En Çok Okunan Kitaplar",
+    "top5BooksChartTitle": "En Çok Okunan 5 Kitap",
+      "shareBook": "Kitabı Paylaş"
+  },
+  "filter": {
+    "searchBook": "Kitap Ara...",
+    "search": "Kitap ara...",
+    "allCategories": "Tüm Kategoriler",
+    "maxPrice": "Maksimum fiyat",
+    "selectCategory": "Kategori Seç",
+    "clearFilters": "Temizle"
+  },
+  "checkout": {
+    "cartTitle": "📚 Sepetiniz",
+    "remove": "Sepetten Çıkar",
+    "summaryTitle": "💳 Ödeme Özeti",
+    "totalTry": "Toplam (TRY)",
+    "totalCurrency": "Toplam ({currency})",
+    "pay": "Ödemeyi Tamamla",
+    "success": "Ödeme başarıyla tamamlandı ✅"
+  },
+  "charts": {
+    "categoryDistribution": "Kategori Dağılımı",
+    "bookCount": "Kitap Sayısı",
+    "categoryPieChartTitle": "Kategorilere Göre Kitap Dağılımı"
+  },
+  "ui": {
+    "darkMode": "🌙 Koyu Mod",
+    "lightMode": "☀️ Açık Mod",
+    "popularBooks": "📖 Popüler Kitaplar",
+    "language": "Dil Seçin"
+  },
+  "favorites": "Favoriler",
+  "homePage": {
+    "bookList": "Kitap Listesi",
+    "currency": "Fiyatlar",
+    "exportBooks": "Kitapları Dışa Aktar 📤",
+    "addBook": "Yeni Kitap Ekle"
+  }
+}

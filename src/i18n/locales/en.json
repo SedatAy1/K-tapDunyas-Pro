@@ -1,0 +1,78 @@
+{
+  "home": {
+    "title": "Home",
+    "currency": "Currency",
+    "bookList": "Book List",
+    "addBook": "Add New Book",
+    "exportBooks": "Export Books 📤"
+  },
+  "auth": {
+    "login": "Login",
+    "logout": "Logout",
+    "register": "Register",
+    "noAccount": "Don't have an account?",
+    "email": "Email",
+    "password": "Password",
+    "name": "Name"
+  },
+  "profile": {
+    "title": "Profile",
+    "info": "This page contains user information, favorites, comments, and more."
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "totalBooks": "Total Books",
+    "totalFavorites": "Total Favorites",
+    "totalCategories": "Total Categories",
+    "adminPanel": "Admin Panel",
+    "adminDescription": "Administrative interface for authorized users."
+  },
+  "book": {
+    "title": "Book Title",
+    "author": "Author",
+    "category": "Category",
+    "price": "Price",
+    "tags": "Tags",
+    "tagsPlaceholder": "Enter tags separated by commas (e.g. Adventure, 2024)",
+    "validation": {
+      "title": "Please enter at least 2 characters.",
+      "author": "Author name is required.",
+      "category": "Category is required.",
+      "price": "Please enter a valid price.",
+      "cover": "You must select a cover image."
+    },
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "addToFavorites": "Add to Favorites",
+    "removeFromFavorites": "Remove from Favorites"
+  },
+  "bookDetail": {
+    "author": "Author",
+    "category": "Category",
+    "price": "Price",
+    "views": "Views",
+    "viewCount": "View Count",
+    "readCount": "Read Count",
+    "averageRating": "Average Rating",
+    "addToCart": "Add to Cart",
+    "comments": "Comments",
+    "addCommentPlaceholder": "Add a comment...",
+    "submitComment": "Submit Comment",
+    "bookNotFound": "Book not found.",
+    "topReadBooks": "Top Read Books",
+    "top5BooksChartTitle": "Top 5 Most Read Books",
+    "shareBook": "Share Book"
+  },
+  "ui": {
+    "darkMode": "🌙 Dark Mode",
+    "lightMode": "☀️ Light Mode",
+    "popularBooks": "📖 Popular Books",
+    "language": "Select Language"
+  },
+  "homePage": {
+    "bookList": "Book List",
+    "currency": "Currency",
+    "exportBooks": "Export Books 📤",
+    "addBook": "Add New Book"
+  }
+}
