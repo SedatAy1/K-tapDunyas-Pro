@@ -1,5 +1,13 @@
 # 📚 Kitap Dünyası Pro
 
+## 🚀 Canlı Demo
+
+Projenin canlı haline aşağıdaki bağlantıdan ulaşabilirsiniz:
+
+[👉 Projeyi Netlify üzerinden görüntüleyin](https://tubular-scone-fe4194.netlify.app/)
+
+---
+
 ## 🚀 Proje Hakkında
 Kitap Dünyası Pro, kullanıcıların kitapları görüntüleyip inceleyebileceği, yorum yapabileceği, puanlayabileceği, sepete ekleyebileceği ve favorilerine alabileceği gelişmiş bir kitap yönetim uygulamasıdır. Vue 3, Vuex, Vue Router, Tailwind CSS ve çeşitli modern kütüphaneler kullanılarak geliştirilmiştir.
 
