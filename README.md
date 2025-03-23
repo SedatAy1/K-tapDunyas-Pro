@@ -20,7 +20,7 @@ Kitap Dünyası Pro, kullanıcıların kitapları görüntüleyip inceleyebilece
 
 1. Projeyi klonlayın:
 ```bash
-git clone https://github.com/SedatAy1/K-tapDunyas-Pro
+git clone https://github.com/SedatAy1/KitapDunyasiPro
 ```
 
 2. Proje dizinine gidin:
